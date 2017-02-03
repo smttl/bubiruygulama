@@ -34,11 +34,11 @@ tr:
     # The values :model, :attribute and :value are always available for interpolation
     # The value :count is available when applicable. Can be used for pluralization.
     messages: &errors_messages
-      inclusion: "is not included in the list"
+      inclusion: "Listeye dahil değil"
       exclusion: "is reserved"
       invalid: "geçersiz"
       confirmation: " alanı %{attribute} alanı ile aynı değil"
-      accepted: "must be accepted"
+      accepted: "Kabul edilmek zorundadır"
       empty: "alanı boş olamaz"
       blank: "alanı boş geçilemez"
       present: "alanı boş olmamalıdır"
